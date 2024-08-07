@@ -60,6 +60,3 @@ For additional details, refer to the code comments and the inline documentation.
 
 Feel free to explore, modify, and provide feedback!
 
-**Author:** Your Name
-
-**Contact:** Your Email
